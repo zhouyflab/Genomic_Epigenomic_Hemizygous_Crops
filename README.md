@@ -7,3 +7,6 @@ Hemizygous genes, present in only one of the two homologous chromosomes of diplo
 
 ## Methods
 ### Haplotype Genome Assembly
+### Genome Annotation
+### To Find Telomeres and Centromeres
+### TE Annotation Pipeline
