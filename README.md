@@ -7,3 +7,4 @@ Hemizygous genes, present in only one of the two homologous chromosomes of diplo
 
 ## Methods
 ### [Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly)
+### [Genome Annotation](https://github.com/pengyanling2022/Genome_Annotation_Pipeline)
