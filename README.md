@@ -6,4 +6,4 @@ Hemizygous genes, present in only one of the two homologous chromosomes of diplo
 **Keywords**: Clonal propagation, Structural variation, Integrative genomics, Heterozygous, Cis-regulation
 
 ## Methods
-###[Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly)
+### [Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly)
